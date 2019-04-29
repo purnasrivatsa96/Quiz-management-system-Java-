@@ -4,6 +4,5 @@ questions. Questions can be MCQ, Fill in the blank or true or false. User can wr
 subject with chosen number of questions. Random questions will be picked from the pool of questions for 
 the user.
 
-login.PNG
-
+![alt text] (login.png)
 
