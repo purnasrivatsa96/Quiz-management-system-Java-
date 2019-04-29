@@ -6,3 +6,19 @@ the user.
 
 ![alt text](login.PNG)
 
+![alt text](subject.PNG)
+
+![alt text](subject_home.PNG)
+
+![alt text](insert_chem_question.PNG)
+
+![alt text](insert_chem_mcq.PNG)
+
+![alt text](insert_chem_fill_blank.PNG)
+
+![alt text](insert_chem_true_false.PNG)
+
+![alt text](modify_chem_question.PNG)
+
+![alt text](generate_test_chem.PNG)
+
